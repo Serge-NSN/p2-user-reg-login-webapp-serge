@@ -1,0 +1,51 @@
+body{
+		background-image: url("nsn.jpg");
+	}
+
+form{
+	color: snow;
+	font-family: Georgia, serif;
+	padding-top: 10px;	
+}
+.container{
+	background-color: rgb(155,255,255, 0.1);
+	border-radius: 5px;
+	color: white;
+	font-size: 17px;	
+	margin: 0 auto;
+	margin-top: 150px;
+	border: 1px solid grey;
+	height: 400px;
+	width: 500px;
+	padding: 0 auto;
+	margin-left: auto;
+    margin-right: auto;
+	}
+	
+button{
+	color: white;
+	font-size: 15px;
+	margin-left: 120px;
+	height: 35px;	
+	width: 150px;
+	font-weight: bold;
+	background-color: #004d66;
+	}
+	
+input{
+	height: 30px;
+	width: 350px;
+	border-radius: 20px;
+	padding-left: 10px;
+	font-size: 15px;
+	}
+h1{
+	font-family: Georgia, serif;
+	text-align: center;
+	color: white;
+	}
+p{
+	font-size: 13px;
+	color: white;
+	text-decoration: underline;
+	}
